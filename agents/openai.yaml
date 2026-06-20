@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sansheng Project Architect"
+  short_description: "Strict planning gate for scoped development"
+  default_prompt: "Use $sansheng-project-architect to interrogate my idea, lock scope, and prepare development docs before coding."
